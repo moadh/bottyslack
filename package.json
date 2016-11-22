@@ -15,7 +15,7 @@
   },
   "main": "lib/bot.js",
   "scripts": {
-    "start": "node bin/bot.js"
+    "start": "node lib/bot.js"
   },
   "author": {
     "name": "Ben Sassi Moadh"
