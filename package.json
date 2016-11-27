@@ -24,6 +24,9 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "slackbots": "^0.3.0"
+    "slackbots": "^0.3.0",
+    "cron": "^1.0.4",
+    "requestify": "^0.1.16",
+    "slack-notify": "^0.1.2"
   }
 }
